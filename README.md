@@ -24,7 +24,7 @@ FLOW WITH EXPLAINATION:
 
 	#After you click a small window will pop up. In that you have to enter your Name and then press OK.
 
-	#After clicking the OK button, a camera window will pop up in 3 seconds and it will take a pic of your face and show it to you. After that press any key and 	store it in the folder named ImagesAttendance.
+	#After clicking the OK button, a camera window will pop up in 3 seconds and it will take a pic of your face and show it to you. After that press any key and store it in the folder named ImagesAttendance.
 
 	#You can detect and recognize faces from the live webcam feed also using the Scan Face (Webcam)
 
@@ -38,7 +38,13 @@ FLOW WITH EXPLAINATION:
 	
 	
 	
-	SCREENSHOTS:![GUI U K](https://user-images.githubusercontent.com/123864588/229135221-8e3200a2-46d4-4921-a68e-58a17ac4de25.png)
+	
+
 
 	
+SCREENSHOTS:
+![GUI U K](https://user-images.githubusercontent.com/123864588/229136204-a1417950-4427-43b2-917b-b28d5f4152f0.png)
+![image](https://user-images.githubusercontent.com/123864588/229136408-50c1a7de-cc26-41a1-9bea-5c53d4e13222.png)
+![Attendance](https://user-images.githubusercontent.com/123864588/229136791-942f24bf-ba44-497f-bfae-e181908323d9.png)
+
 
